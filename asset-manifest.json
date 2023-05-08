@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/TweetsApp/static/css/main.aac9a9ad.css",
+    "main.js": "/TweetsApp/static/js/main.dda5bde0.js",
+    "static/js/37.9e8d4664.chunk.js": "/TweetsApp/static/js/37.9e8d4664.chunk.js",
+    "static/js/724.4388cefc.chunk.js": "/TweetsApp/static/js/724.4388cefc.chunk.js",
+    "static/js/631.cad55027.chunk.js": "/TweetsApp/static/js/631.cad55027.chunk.js",
+    "static/media/Home.jpeg": "/TweetsApp/static/media/Home.271bb3a9e0d0db07e994.jpeg",
+    "static/media/bg-image.png": "/TweetsApp/static/media/bg-image.db6709e825b888acd80e.png",
+    "index.html": "/TweetsApp/index.html",
+    "main.aac9a9ad.css.map": "/TweetsApp/static/css/main.aac9a9ad.css.map",
+    "main.dda5bde0.js.map": "/TweetsApp/static/js/main.dda5bde0.js.map",
+    "37.9e8d4664.chunk.js.map": "/TweetsApp/static/js/37.9e8d4664.chunk.js.map",
+    "724.4388cefc.chunk.js.map": "/TweetsApp/static/js/724.4388cefc.chunk.js.map",
+    "631.cad55027.chunk.js.map": "/TweetsApp/static/js/631.cad55027.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aac9a9ad.css",
+    "static/js/main.dda5bde0.js"
+  ]
+}
